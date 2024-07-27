@@ -1,0 +1,5 @@
+socket
+requests
+socket
+dns.resolver
+beautifulsoup4
